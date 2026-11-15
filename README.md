@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 1. BANNER CYBERPUNK AUTOMÁTICO (Cores Neon: Cyan & Magenta) -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00F5FF,50:7928CA,100:FF007F&height=200&section=header&text=SEU_NICK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CYBER%20DEV%20%E2%97%86%20FULL-STACK%20OPERATIVE&descAlignY=68&descAlign=50" width="100%"/>
+<img src="<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/11e8be97-a8f1-400b-8592-48aed3fb4621" />
+type=slice&color=0:00F5FF,50:7928CA,100:FF007F&height=200&section=header&text=SEU_NICK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CYBER%20DEV%20%E2%97%86%20FULL-STACK%20OPERATIVE&descAlignY=68&descAlign=50" width="100%"/>
 
 <!-- 2. TERMINAL DIGITANDO EM TEMPO REAL -->
 <a href="#">

@@ -18,9 +18,9 @@
 
 ```typescript
 const operative = {
-    codename: "SEU_NICK",
+    codename: "Gabe",
     status: "[ONLINE // READY]",
-    system: "SYNAPSE // Linux x86_64",
+    system: "SYNAPSE // Win",
     stack: [
         "JavaScript", "TypeScript", "Python", 
         "React", "Node.js", "HTML5/CSS3"

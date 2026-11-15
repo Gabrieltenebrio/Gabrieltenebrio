@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- 1. SEU BANNER CYBERPUNK (Imagem que você enviou) -->
-<img src="<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/5578b6a5-ea08-4a01-92ff-662477571e5a" />
+<img src="<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/b9b871b9-2604-4b80-a1c6-438bd4ab737c" />
+" />
 " alt="Cyber Banner" width="100%" />
 
 <br/><br/>

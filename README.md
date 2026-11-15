@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- 1. SEU BANNER CYBERPUNK (Imagem que você enviou) -->
-<img src="<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/b9b871b9-2604-4b80-a1c6-438bd4ab737c" />
-" />
-" alt="Cyber Banner" width="100%" />
+<!-- 1. SEU BANNER CYBERPUNK (Sua imagem ajustada com largura de 100%) -->
+<img src="https://github.com/user-attachments/assets/b9b871b9-2604-4b80-a1c6-438bd4ab737c" alt="Cyber Banner" width="100%" />
 
 <br/><br/>
 
@@ -54,13 +52,13 @@ const operative = {
 
 ### `> NEURAL METRICS`
 
-<!-- Card de Estatísticas com Tema Cyberpunk (Troque SEU_USUARIO pelo seu username do GitHub) -->
+<!-- Card de Estatísticas com Tema Cyberpunk (Substitua SEU_USUARIO pelo seu nick do GitHub) -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&title_color=00f5ff&icon_color=ff007f&text_color=ffffff&bg_color=0d1117" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&title_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
 
 <br/><br/>
 
-<!-- Redes / Contato (Opcional: coloque seus links ou pode apagar) -->
+<!-- Redes / Contato -->
 <a href="https://discord.gg/SEU-LINK" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
